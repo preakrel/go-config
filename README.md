@@ -44,14 +44,13 @@ arr1:
 
 ### 载入数据
 
-> 示例代码请看 [_examples/yaml.go](_examples/yaml.go):
 
 ```go
 package main
 
 import (
-    "preakrel/config"
-    "preakrel/config/yaml"
+    "preakrel/go-config"
+    "preakrel/go-config/yaml"
 )
 
 // go run ./examples/yaml.go
